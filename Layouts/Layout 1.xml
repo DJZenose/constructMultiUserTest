@@ -51,7 +51,11 @@
                         <opacity>1</opacity>
                     </world>
                 </instance>
+<<<<<<< HEAD
                 <instance type="CONNORSPRITE2" uid="1">
+=======
+                <instance type="NOTYOURCONNORSPRITE" uid="1">
+>>>>>>> ca9db457866d84aad19e582d6bfde9a3c8d1411d
                     <properties>
                         <initial-visibility>Visible</initial-visibility>
                         <initial-animation>Default</initial-animation>
@@ -61,8 +65,13 @@
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>
                     <world>
+<<<<<<< HEAD
                         <x>420</x>
                         <y>155</y>
+=======
+                        <x>423</x>
+                        <y>137</y>
+>>>>>>> ca9db457866d84aad19e582d6bfde9a3c8d1411d
                         <z>0</z>
                         <width>250</width>
                         <height>250</height>
