@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <c2layout>
     <name>Layout 1</name>
-    <sid>851684211680023</sid>
+    <sid>465190458281930</sid>
     <event-sheet>Event sheet 1</event-sheet>
     <size>
         <width>1708</width>
@@ -13,7 +13,7 @@
     </margins>
     <unbounded-scrolling>0</unbounded-scrolling>
     <layers>
-        <layer name="Layer 0" sid="293132420274176">
+        <layer name="Layer 0" sid="791515991513351">
             <initially-visible>1</initially-visible>
             <background-color>255,255,255</background-color>
             <transparent>0</transparent>
@@ -29,7 +29,7 @@
             <blend-mode>0</blend-mode>
             <effect-fallback>0</effect-fallback>
             <instances>
-                <instance type="CONNORSSPRITE" uid="0">
+                <instance type="Connorsprpite" uid="0">
                     <properties>
                         <initial-visibility>Visible</initial-visibility>
                         <initial-animation>Default</initial-animation>
@@ -39,8 +39,8 @@
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>
                     <world>
-                        <x>169</x>
-                        <y>154</y>
+                        <x>186</x>
+                        <y>149</y>
                         <z>0</z>
                         <width>250</width>
                         <height>250</height>
@@ -51,11 +51,7 @@
                         <opacity>1</opacity>
                     </world>
                 </instance>
-<<<<<<< HEAD
-                <instance type="CONNORSPRITE2" uid="1">
-=======
-                <instance type="NOTYOURCONNORSPRITE" uid="1">
->>>>>>> ca9db457866d84aad19e582d6bfde9a3c8d1411d
+                <instance type="IvanSprite" uid="1">
                     <properties>
                         <initial-visibility>Visible</initial-visibility>
                         <initial-animation>Default</initial-animation>
@@ -65,13 +61,8 @@
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>
                     <world>
-<<<<<<< HEAD
-                        <x>420</x>
-                        <y>155</y>
-=======
-                        <x>423</x>
-                        <y>137</y>
->>>>>>> ca9db457866d84aad19e582d6bfde9a3c8d1411d
+                        <x>459</x>
+                        <y>163</y>
                         <z>0</z>
                         <width>250</width>
                         <height>250</height>
