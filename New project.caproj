@@ -11,6 +11,7 @@
     <saved-with-version>24400</saved-with-version>
     <used-plugins>
         <plugin author="Scirra" id="Sprite" version="1">Sprite</plugin>
+        <plugin author="Scirra" id="progressbar" version="1">Progress bar</plugin>
     </used-plugins>
     <used-behaviors />
     <used-effects />
@@ -48,6 +49,9 @@
                         <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
                     </animation>
                 </animation-folder>
+            </object-type>
+            <object-type name="prrrgrrrbrrr" sid="572643812806494">
+                <plugin id="progressbar" />
             </object-type>
         </object-folder>
         <object-folder name="Ivn" />
