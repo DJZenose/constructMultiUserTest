@@ -117,6 +117,7 @@
                         <opacity>1</opacity>
                     </world>
                 </instance>
+<<<<<<< HEAD
                 <instance type="BUTTTTTTTTON" uid="4">
                     <properties>
                         <type>Button</type>
@@ -127,15 +128,32 @@
                         <auto-font-size>Yes</auto-font-size>
                         <id-optional></id-optional>
                         <checked>No</checked>
+=======
+                <instance type="Progress" uid="4">
+                    <properties>
+                        <value>0</value>
+                        <maximum>100</maximum>
+                        <tooltip></tooltip>
+                        <initial-visibility>Visible</initial-visibility>
+                        <id-optional></id-optional>
+>>>>>>> b2999cd8920f07210b2fb35270c229e374dc574e
                     </properties>
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>
                     <world>
+<<<<<<< HEAD
                         <x>575</x>
                         <y>20</y>
                         <z>0</z>
                         <width>72</width>
                         <height>24</height>
+=======
+                        <x>339</x>
+                        <y>131</y>
+                        <z>0</z>
+                        <width>200</width>
+                        <height>25</height>
+>>>>>>> b2999cd8920f07210b2fb35270c229e374dc574e
                         <depth>0</depth>
                         <hotspotX>0</hotspotX>
                         <hotspotY>0</hotspotY>
