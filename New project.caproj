@@ -7,12 +7,10 @@
     <author-email></author-email>
     <author-website>http://</author-website>
     <app-id>com.mycompany.myapp</app-id>
-    <unique-id>fjtpfhg6y0s1</unique-id>
+    <unique-id>3hmv6oruq6wg5</unique-id>
     <saved-with-version>24400</saved-with-version>
     <used-plugins>
-        <plugin author="Scirra" id="Button" version="1">Button</plugin>
         <plugin author="Scirra" id="Sprite" version="1">Sprite</plugin>
-        <plugin author="Scirra" id="progressbar" version="1">Progress bar</plugin>
     </used-plugins>
     <used-behaviors />
     <used-effects />
@@ -43,51 +41,20 @@
     </configuration-settings>
     <object-folder>
         <object-folder name="Connor">
-            <object-type name="Connorsprpite" sid="748549260408568">
+            <object-type name="ConnorSprite" sid="827872279811185">
                 <plugin id="Sprite" />
                 <animation-folder>
-                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="160640473358154" speed="5">
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="603013092715942" speed="5">
                         <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
                     </animation>
                 </animation-folder>
-            </object-type>
-            <object-type name="newconnorsprite" sid="921705945033912">
-                <plugin id="Sprite" />
-                <animation-folder>
-                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="191255450341808" speed="5">
-                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
-                    </animation>
-                </animation-folder>
-            </object-type>
-            <object-type name="BUTTTTTTTTON" sid="872968908819165">
-                <plugin id="Button" />
             </object-type>
         </object-folder>
-        <object-folder name="Ivan">
-            <object-type name="IvanSprite" sid="495155652907885">
-                <plugin id="Sprite" />
-                <animation-folder>
-                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="481884691556455" speed="5">
-                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
-                    </animation>
-                </animation-folder>
-            </object-type>
-            <object-type name="NeverBackDown" sid="580030740067763">
-                <plugin id="Sprite" />
-                <animation-folder>
-                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="309631098107709" speed="5">
-                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
-                    </animation>
-                </animation-folder>
-            </object-type>
-            <object-type name="Progress" sid="926917209012813">
-                <plugin id="progressbar" />
-            </object-type>
-        </object-folder>
+        <object-folder name="Ivan" />
     </object-folder>
     <families />
     <layout-folder>
-        <layout>Layout 1.xml</layout>
+        <layout>ConnorLayout.xml</layout>
     </layout-folder>
     <event-folder>
         <event-sheet>Event sheet 1.xml</event-sheet>
