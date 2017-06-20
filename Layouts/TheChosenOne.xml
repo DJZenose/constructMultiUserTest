@@ -75,7 +75,7 @@
                         <hotspotY>0</hotspotY>
                     </world>
                 </instance>
-                <instance type="Sprite" uid="5">
+                <instance type="7UP" uid="6">
                     <properties>
                         <initial-visibility>Visible</initial-visibility>
                         <initial-animation>Default</initial-animation>
