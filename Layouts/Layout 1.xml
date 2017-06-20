@@ -61,8 +61,8 @@
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>
                     <world>
-                        <x>416</x>
-                        <y>124</y>
+                        <x>426</x>
+                        <y>116</y>
                         <z>0</z>
                         <width>250</width>
                         <height>250</height>
@@ -95,7 +95,7 @@
                         <opacity>1</opacity>
                     </world>
                 </instance>
-                <instance type="NeverBackDown" uid="2">
+                <instance type="NeverBackDown" uid="3">
                     <properties>
                         <initial-visibility>Visible</initial-visibility>
                         <initial-animation>Default</initial-animation>
@@ -105,8 +105,8 @@
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>
                     <world>
-                        <x>320</x>
-                        <y>287</y>
+                        <x>418</x>
+                        <y>374</y>
                         <z>0</z>
                         <width>250</width>
                         <height>250</height>
