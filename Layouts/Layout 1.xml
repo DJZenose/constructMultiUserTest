@@ -51,7 +51,11 @@
                         <opacity>1</opacity>
                     </world>
                 </instance>
+<<<<<<< HEAD
                 <instance type="M1" uid="1">
+=======
+                <instance type="M2" uid="1">
+>>>>>>> 567560a2eb8769305f44e57f67253403aba976ea
                     <properties>
                         <initial-visibility>Visible</initial-visibility>
                         <initial-animation>Default</initial-animation>
@@ -61,8 +65,13 @@
                     <blend-mode>0</blend-mode>
                     <effect-fallback>0</effect-fallback>
                     <world>
+<<<<<<< HEAD
                         <x>505</x>
                         <y>149</y>
+=======
+                        <x>252</x>
+                        <y>150</y>
+>>>>>>> 567560a2eb8769305f44e57f67253403aba976ea
                         <z>0</z>
                         <width>250</width>
                         <height>250</height>
