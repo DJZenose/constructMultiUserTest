@@ -11,6 +11,7 @@
     <saved-with-version>24400</saved-with-version>
     <used-plugins>
         <plugin author="Scirra" id="Sprite" version="1">Sprite</plugin>
+        <plugin author="Scirra" id="shadowlight" version="1">Shadow Light</plugin>
     </used-plugins>
     <used-behaviors />
     <used-effects />
@@ -50,14 +51,28 @@
                 </animation-folder>
             </object-type>
         </object-folder>
-        <object-folder name="Ivan" />
+        <object-folder name="Ivan">
+            <object-type name="WhatDoesThisDo" sid="344924612466072">
+                <plugin id="shadowlight" />
+            </object-type>
+            <object-type name="Sprite911" sid="246135633088889">
+                <plugin id="Sprite" />
+                <animation-folder>
+                    <animation framecount="1" loop="0" name="Default" pingpong="0" repeatcount="1" repeatto="0" sid="766604853090841" speed="5">
+                        <frame duration="1" hotspotX="0.5" hotspotY="0.5" />
+                    </animation>
+                </animation-folder>
+            </object-type>
+        </object-folder>
     </object-folder>
     <families />
     <layout-folder>
         <layout>ConnorLayout.xml</layout>
+        <layout>LayoutThatIsSuperiorInEveryWay.xml</layout>
     </layout-folder>
     <event-folder>
         <event-sheet>Event sheet 1.xml</event-sheet>
+        <event-sheet>Hahahahahaha.xml</event-sheet>
     </event-folder>
     <global-instances />
     <sounds-folder />
