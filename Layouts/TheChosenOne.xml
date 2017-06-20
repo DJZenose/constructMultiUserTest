@@ -75,7 +75,11 @@
                         <hotspotY>0</hotspotY>
                     </world>
                 </instance>
+<<<<<<< HEAD
                 <instance type="7UP" uid="6">
+=======
+                <instance type="Sprite" uid="6">
+>>>>>>> BRNCH2
                     <properties>
                         <initial-visibility>Visible</initial-visibility>
                         <initial-animation>Default</initial-animation>
